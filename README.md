@@ -7,9 +7,9 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-4f46e5.svg)](./LICENSE)
 [![Offline Ready](https://img.shields.io/badge/Offline-100%25%20免服务器-059669.svg)](#-快速开始3-种打开方式)
 [![Interactive Terminal](https://img.shields.io/badge/交互终端-内置%2012%20关实操-0ea5e9.svg)](#-内置交互式-linux-命令模拟器)
-[![Single File](https://img.shields.io/badge/单文件便携版-9.65%20MB-f59e0b.svg)](https://github.com/1135585685/linux-in-3-hours/releases)
+[![Single File](https://img.shields.io/badge/单文件便携版-9.65%20MB-f59e0b.svg)](https://github.com/Stormwang815/linux-in-3-hours/releases)
 
-[在线直达（GitHub Pages）](https://1135585685.github.io/linux-in-3-hours/) · [下载单文件离线版](https://github.com/1135585685/linux-in-3-hours/releases/latest) · [课程大纲](#-3-小时学习路线与全量目录) · [交互终端闯关](#-内置交互式-linux-命令模拟器)
+[在线直达（GitHub Pages）](https://stormwang815.github.io/linux-in-3-hours/) · [下载单文件离线版](https://github.com/Stormwang815/linux-in-3-hours/releases/latest) · [课程大纲](#-3-小时学习路线与全量目录) · [交互终端闯关](#-内置交互式-linux-命令模拟器)
 
 </div>
 
@@ -31,16 +31,16 @@
 
 ### 方式一：在线直接学习（无需下载）
 直接访问 GitHub Pages 在线版：
-👉 **https://1135585685.github.io/linux-in-3-hours/**
+👉 **https://stormwang815.github.io/linux-in-3-hours/**
 
 ### 方式二：下载「单文件便携版」（推荐发手机 / iPad / U 盘 / 微信分享）
-前往 [Releases 最新版本](https://github.com/1135585685/linux-in-3-hours/releases/latest) 下载 **`3小时速通Linux-完整单文件离线版.html`**（或直接获取仓库内 [`dist/3小时速通Linux-完整单文件离线版.html`](./dist/3小时速通Linux-完整单文件离线版.html)）：
+前往 [Releases 最新版本](https://github.com/Stormwang815/linux-in-3-hours/releases/latest) 下载 **`3小时速通Linux-完整单文件离线版.html`**（或直接获取仓库内 [`dist/3小时速通Linux-完整单文件离线版.html`](./dist/3小时速通Linux-完整单文件离线版.html)）：
 - 仅 **1 个 HTML 文件**（9.65 MB），已内嵌全部 45 组图解演示、交互终端、速查表与两篇延伸精讲；
 - 拷贝到任何设备的浏览器中直接打开即可，完全无需联网。
 
 ### 方式三：克隆或下载 ZIP（推荐电脑日常阅读，打开最快）
 ```bash
-git clone https://github.com/1135585685/linux-in-3-hours.git
+git clone https://github.com/Stormwang815/linux-in-3-hours.git
 cd linux-in-3-hours
 ```
 随后直接**双击根目录的 `index.html`** 即可在浏览器中秒开阅读（无需启动任何本地服务器）。
